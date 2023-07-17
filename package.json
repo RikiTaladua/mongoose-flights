@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RikiTaladua/mongoose-flights/issues"
   },
-  "homepage": "https://github.com/RikiTaladua/mongoose-flights#readme"
+  "homepage": "https://github.com/RikiTaladua/mongoose-flights#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0"
+  }
 }
