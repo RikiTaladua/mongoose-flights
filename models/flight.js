@@ -27,7 +27,7 @@ const flightSchema = new mongoose.Schema({
     },
     airport: {
         type: String,
-      enum: ['LAX', 'SFO', 'DEN']  
+      enum: ['LAX', 'SFO', 'FAT']  
     },
     flightNo: {
         type: Number,
